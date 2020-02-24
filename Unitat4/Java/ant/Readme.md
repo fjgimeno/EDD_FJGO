@@ -37,3 +37,5 @@ Una vegada creades les classes ( fitxers calcula.java i calculadora.java ), hem 
 
 ![3](./img/img3.png)
 ![4](./img/img4.png)
+
+4. **Reflexió:** Personalment, crec que crear els arxius a mà resulta mes comode i senzill, ja que jo l'havia fet usant netbeans, i este crea molta morralla, amés de que fent-ho a mà, ens ofereix mes control sobre el que creem.
