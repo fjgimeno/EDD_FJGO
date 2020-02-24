@@ -30,10 +30,10 @@ Una vegada creades les classes ( fitxers calcula.java i calculadora.java ), hem 
 
  2. **Instalació de ANT:** Primer hem de comprovar que el paquet "ant" no estiga instalat ja en el nostre equip, per fer-ho, tan sols hem d'obrir un terminal i executar "apt-cache policy ant", en cas de que el comandament ens mostre que no tenim cap versio de "ant" instalada, l'instalarem amb "sudo apt install ant".
 
-![1](/img/img1.png)
-![2](/img/img2.png)
+![1](./img/img1.png)
+![2](./img/img2.png)
 
  3. **Compilació / Execució amb ANT:** Per tal de compilar el programa, obrirem un terminal y ens situarem a la mateixa altura del arxiu "build.xml", una vegada ahí, executarem el comandament "ant compile", una vegada compilat, executarem el programa amb "ant run -Darg0=X -Darg1=Y" on "X" e "Y" son numeros.
 
-![3](/img/img3.png)
-![4](/img/img4.png)
+![3](./img/img3.png)
+![4](./img/img4.png)
